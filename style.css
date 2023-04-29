@@ -1,3 +1,23 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(155, 187, 215);
+color: #273f5a;
+}
+
+h1 {
+color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+border-width: medium;
+border-radius: 100px;
+  background: #547498;
+  padding: 20px;
+  width: 1000x;
+  height: 30px;
+}
+
+
+h2 {
+color: rgb(47, 71, 105);
+  text-align: center;
+  font-size: 18px;
 }
